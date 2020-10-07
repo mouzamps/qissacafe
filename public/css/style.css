@@ -131,53 +131,9 @@ ul.nav.navbar-nav.navbar-right {
     letter-spacing: 5px;
     margin: 2em auto;
 }
-.agileits_w3layouts_more{
-	position:relative;
-}
-.agileits_w3layouts_more a {
-    font-size: 15px;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    position: relative;
-    background: #8abe01;
-    padding: 10px 20px;
-}
-.agileits_w3layouts_more a:focus{
-	outline:none;
-}
-.agileits_w3layouts_more a:hover{
-	color:#fff;
-}
-.agileits_w3layouts_more a:before,.agileits_w3layouts_more a:after{
-	content: '';
-    background: #fff;
-    width: 85%;
-    height: 2px;
-    position: absolute;
-    left: 105%;
-    top: 46%;
-}
-.agileits_w3layouts_more a:after{
-	-webkit-transition-delay: 0.4s;
-    transition-delay: 0.4s;
-	    -webkit-transform: scale3d(0, 1, 1);
-    transform: scale3d(0, 1, 1);
-    -webkit-transform-origin: center left;
-    transform-origin: center left;
-    -webkit-transition: transform 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
-    transition: transform 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
-}
-.agileits_w3layouts_more a:hover::before, .agileits_w3layouts_more a:hover::after {
-    -webkit-transform: scale3d(1, 1, 1);
-    transform: scale3d(1, 1, 1);
-    -webkit-transition-delay: 0s;
-    transition-delay: 0s;
-}
-.agileits_w3layouts_more a::after {
-    background: #E91E63;
-}
+
+
+
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
@@ -1626,11 +1582,6 @@ a.facebook {
 	}
 	.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top2 {
 		min-height: 450px;
-	}
-	.agileits_w3layouts_more a {
-		font-size: 14px;
-		letter-spacing: 1px;
-		padding: 8px 15px;
 	}
 	.rotate {
 		font-size: 18px;
