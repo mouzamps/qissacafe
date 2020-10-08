@@ -418,12 +418,14 @@ ul.nav.navbar-nav.navbar-right {
 .aboutgrid1 {
     padding: 4em 3em;
     background: #2dde98;
-    border: 1px solid #fff;
+	border: 1px solid #fff;
+	height: 19em;
 }
 .aboutgrid3{
     padding: 4em 3em;
     background: #03A9F4;
-    border: 1px solid #fff;
+	border: 1px solid #fff;
+	height: 19em;
 }
 .aboutgrid5{
     padding: 4em 3em;
@@ -432,7 +434,8 @@ ul.nav.navbar-nav.navbar-right {
 }
 .aboutgrid2, .aboutgrid4, .aboutgrid6 {
     padding: 0;
-    border: 1px solid #fff;
+	border: 1px solid #fff;
+	
 }
 /* about */
 
