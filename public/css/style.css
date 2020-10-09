@@ -430,7 +430,8 @@ ul.nav.navbar-nav.navbar-right {
 .aboutgrid5{
     padding: 4em 3em;
     background: #FF9800;
-    border: 1px solid #fff;
+	border: 1px solid #fff;
+	height: 16em;
 }
 .aboutgrid2, .aboutgrid4, .aboutgrid6 {
     padding: 0;
