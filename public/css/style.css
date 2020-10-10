@@ -1032,7 +1032,8 @@ input.phone {
     border: none;
     border-bottom: solid 1px #fff;
     min-height: 12em;
-    -webkit-appearance: none;
+	-webkit-appearance: none;
+	height: 11em;
 }
 .contact-form input[type="submit"] {
     float: right;
@@ -1057,7 +1058,8 @@ input.phone {
 .contact-left {
     padding: 5em 2em 5em 23em;
     background: #999;
-    background: #8abe01;
+	background: #8abe01;
+	height: 34em;
 }
 .contact-form {
     padding: 4em 18em 4em 5em;
