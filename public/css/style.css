@@ -137,7 +137,7 @@ ul.nav.navbar-nav.navbar-right {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/slide1.jpg) no-repeat 0px 0px;
+    background: url(../images/slide1.png) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -433,11 +433,17 @@ ul.nav.navbar-nav.navbar-right {
 	border: 1px solid #fff;
 	height: 16em;
 }
-.aboutgrid2, .aboutgrid4, .aboutgrid6 {
+ .aboutgrid4,.aboutgrid6 {
     padding: 0;
 	border: 1px solid #fff;
 	
 }
+.aboutgrid2{
+	padding: 0;
+	border: 1px solid #fff;
+	height: 18em;
+}
+
 /* about */
 
 /*-- bootstrap-modal-pop-up --*/
